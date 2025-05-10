@@ -1,4 +1,4 @@
-**Loan Approval Prediction Project**
+# Loan Approval Prediction Project
 
 This project uses machine learning algorithms to predict loan approval status based on applicant profiles. Key features include Marital Status, Education, Applicant Income, Credit History, and more. The project involves data preprocessing, visualization, and model training using various classification models such as Random Forest, K-Nearest Neighbors, Support Vector Machines, and Logistic Regression.
 
